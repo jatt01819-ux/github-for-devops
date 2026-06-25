@@ -1,1 +1,5 @@
-changes made in file 
+git init 
+git status
+git add.
+git commit -m"adding these files"
+git restore tesing.py
